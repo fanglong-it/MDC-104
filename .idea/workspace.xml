@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8407e73b-1f93-4cf1-89e9-a98406759487" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/material-components-flutter-codelabs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mdc_100_series/lib/backdrop.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mdc_100_series/lib/category_menu_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mdc_100_series/lib/colors.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mdc_100_series/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/android/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/android/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/android/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/lib/app.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/lib/app.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/lib/home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/lib/home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/lib/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/lib/login.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/lib/supplemental/product_columns.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/lib/supplemental/product_columns.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdc_100_series/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="25WKVl23G6CSu06zzSQKpEOyCva" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="C:/src/flutter/bin/cache/dart-sdk" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/mdc_100_series/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8407e73b-1f93-4cf1-89e9-a98406759487" name="Default Changelist" comment="" />
+      <created>1645637431157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645637431157</updated>
+    </task>
+    <servers />
+  </component>
+</project>
