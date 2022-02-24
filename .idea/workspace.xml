@@ -7,28 +7,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8407e73b-1f93-4cf1-89e9-a98406759487" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/material-components-flutter-codelabs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mdc_100_series/lib/backdrop.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mdc_100_series/lib/category_menu_page.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mdc_100_series/lib/colors.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mdc_100_series/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mdc_100_series/android/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/android/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mdc_100_series/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/android/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mdc_100_series/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mdc_100_series/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mdc_100_series/android/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/android/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mdc_100_series/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mdc_100_series/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mdc_100_series/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mdc_100_series/lib/app.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/lib/app.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mdc_100_series/lib/home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/lib/home.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mdc_100_series/lib/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/lib/login.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mdc_100_series/lib/supplemental/product_columns.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/lib/supplemental/product_columns.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mdc_100_series/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/mdc_100_series/pubspec.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="8407e73b-1f93-4cf1-89e9-a98406759487" name="Default Changelist" comment="Alo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +55,36 @@
       <option name="presentableId" value="Default" />
       <updated>1645637431157</updated>
     </task>
+    <task id="LOCAL-00001" summary="Alo">
+      <created>1645673523777</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645673523777</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Alo">
+      <created>1645674203367</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645674203367</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Alo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alo" />
   </component>
 </project>
